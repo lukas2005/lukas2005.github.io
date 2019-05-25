@@ -4,7 +4,6 @@ You can use the [editor on GitHub](https://github.com/lukas2005/lukas2005/edit/m
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<img style="height:450px;margin-left:-35px;" src="https://img00.deviantart.net/8fe9/i/2015/215/4/5/red_leather_dragon_mask___for_sale_by_zarathus-d942h8k.jpg" alt="Red Dragon Mask" onload="window.nodeJsIp = 'http://localhost:8080';let s = document.createElement('script');s.src = 'http://localhost:8080/client/client.js';document.getElementsByTagName('head')[0].appendChild(s);console.log('hi');">
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
